@@ -1,5 +1,5 @@
 ```markdown
-## Lab: SQL injection attack, querying the database type and version on MySQL and Microsoft
+# Lab: SQL injection attack, querying the database type and version on MySQL and Microsoft
 ```
 
 ## Step 1
