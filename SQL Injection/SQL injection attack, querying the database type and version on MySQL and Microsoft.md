@@ -4,7 +4,7 @@
 
 Check number of column
 
-<img src="../Images/ps1.png" width="500" height="200">
+<img src="../Images/ps1.png" width="550" height="200">
 
 ## Step 2
 
