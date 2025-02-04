@@ -4,17 +4,17 @@
 
 Listing the tables of database.
 
-<img src="../Images/ps6.png" width="550" height="200">
+<img src="../Images/ps6.png" width="600" height="200">
 
-<img src="../Images/ps7.png" width="550" height="200">
+<img src="../Images/ps7.png" width="600" height="400">
 
 ## Step 2
 
 Find column details of the table 'users_qcvped' 
 
-<img src="../Images/ps8.png" width="550" height="200">
+<img src="../Images/ps8.png" width="600" height="200">
 
-<img src="../Images/ps9.png" width="550" height="200">
+<img src="../Images/ps9.png" width="600" height="200">
 
 ## Step 3
 
