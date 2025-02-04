@@ -14,7 +14,7 @@ Find column details of the table 'users_qcvped'
 
 <img src="../Images/ps8.png" width="600" height="200">
 
-<img src="../Images/ps9.png" width="600" height="250">
+<img src="../Images/ps9.png" width="600" height="350">
 
 ## Step 3
 
